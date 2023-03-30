@@ -1,4 +1,8 @@
 {
+  "github-nvim-theme": { "branch": "main", "commit": "24c8706c9ad26b944f5a76dea999dca8708f252e" },
   "lazy.nvim": { "branch": "main", "commit": "57cce98dfdb2f2dd05a0567d89811e6d0505e13b" },
-  "mason.nvim": { "branch": "main", "commit": "92fe8b7b3795ebb9e856124ae9ef5d4a1502f230" }
+  "mason.nvim": { "branch": "main", "commit": "92fe8b7b3795ebb9e856124ae9ef5d4a1502f230" },
+  "nvim-lspconfig": { "branch": "master", "commit": "c34522092bee6e4abf68ed3b24dceee4bd5a48fc" },
+  "nvim-tree.lua": { "branch": "master", "commit": "45400cd7e02027937cd5e49845545e606ecf5a1f" },
+  "nvim-web-devicons": { "branch": "master", "commit": "267af2d57e0f251d65b95bdfd1f382211b272417" }
 }
